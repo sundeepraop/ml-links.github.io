@@ -1,7 +1,7 @@
-#Machine learning latest links and data
+#Machine learning latest links and data#
 
 
-##Get Started with Machine Learning | AWS Power Hour: Machine Learning | Episode 1: Intro to ML
+##Get Started with Machine Learning | AWS Power Hour: Machine Learning | Episode 1: Intro to ML##
 https://www.youtube.com/watch?v=WA0T8dy0aGQ
 
 
